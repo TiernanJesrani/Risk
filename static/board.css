@@ -1,0 +1,2707 @@
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1100px;
+  }
+  
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .container .btnAlaska {
+    position: absolute;
+    top: 16%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 10px 2px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnAlaska:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnAlaska:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnAlaska:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnAlaska:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnNorthwestTerritory {
+    position: absolute;
+    top: 16%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 5px 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnNorthwestTerritory:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+
+  .container .btnNorthwestTerritory:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnNorthwestTerritory:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnNorthwestTerritory:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnAlberta {
+    position: absolute;
+    top: 24%;
+    left: 14.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 10px 2px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnAlberta:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnAlberta:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnAlberta:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnAlberta:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnWesternUS {
+    position: absolute;
+    top: 32%;
+    left: 16.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 10px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnWesternUS:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnWesternUS:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnWesternUS:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnWesternUS:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnOntario {
+    position: absolute;
+    top: 25%;
+    left: 22%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 10px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnOntario:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnOntario:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnOntario:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnOntario:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnQuebec {
+    position: absolute;
+    top: 25%;
+    left: 29%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 6px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnQuebec:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnQuebec:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnQuebec:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnQuebec:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnGreenland {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 6px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnGreenland:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnGreenland:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnGreenland:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnGreenland:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnEasternUS {
+    position: absolute;
+    top: 37%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 5px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnEasternUS:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnEasternUS:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnEasternUS:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnEasternUS:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnCentralAmerica {
+    position: absolute;
+    top: 45%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(225, 208, 30);
+    color: black;
+    font-size: 14px;
+    padding: 5px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnCentralAmerica:visited {
+    background-color: rgb(225, 208, 30);
+    color: black;
+  }
+  
+  .container .btnCentralAmerica:focus {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnCentralAmerica:active {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnCentralAmerica:hover {
+    background-color: rgb(225, 208, 30);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+
+
+
+  .container .btnVenezuela {
+    position: absolute;
+    top: 53%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(233, 49, 49);
+    color: black;
+    font-size: 14px;
+    padding: 4px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnVenezuela:visited {
+    background-color: rgb(233, 49, 49);
+    color: black;
+  }
+  
+  .container .btnVenezuela:focus {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnVenezuela:active {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnVenezuela:hover {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnBrazil {
+    position: absolute;
+    top: 64%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(233, 49, 49);
+    color: black;
+    font-size: 14px;
+    padding: 7px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnBrazil:visited {
+    background-color: rgb(233, 49, 49);
+    color: black;
+  }
+  
+  .container .btnBrazil:focus {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnBrazil:active {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnBrazil:hover {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnPeru {
+    position: absolute;
+    top: 67%;
+    left: 26%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(233, 49, 49);
+    color: black;
+    font-size: 14px;
+    padding: 7px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnPeru:visited {
+    background-color: rgb(233, 49, 49);
+    color: black;
+  }
+  
+  .container .btnPeru:focus {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnPeru:active {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnPeru:hover {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnArgentina {
+    position: absolute;
+    top: 77%;
+    left: 26%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(233, 49, 49);
+    color: black;
+    font-size: 14px;
+    padding: 7px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnArgentina:visited {
+    background-color: rgb(233, 49, 49);
+    color: black;
+  }
+  
+  .container .btnArgentina:focus {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnArgentina:active {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnArgentina:hover {
+    background-color: rgb(233, 49, 49);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+
+
+
+  .container .btnNorthAfrica {
+    position: absolute;
+    top: 61%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(170, 110, 50);
+    color: black;
+    font-size: 14px;
+    padding: 7px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnNorthAfrica:visited {
+    background-color: rgb(170, 110, 50);
+    color: black;
+  }
+  
+  .container .btnNorthAfrica:focus {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnNorthAfrica:active {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnNorthAfrica:hover {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnEgypt {
+    position: absolute;
+    top: 55.5%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(170, 110, 50);
+    color: black;
+    font-size: 14px;
+    padding: 5px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnEgypt:visited {
+    background-color: rgb(170, 110, 50);
+    color: black;
+  }
+  
+  .container .btnEgypt:focus {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnEgypt:active {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnEgypt:hover {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnEastAfrica {
+    position: absolute;
+    top: 66%;
+    left: 59%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(170, 110, 50);
+    color: black;
+    font-size: 14px;
+    padding: 5px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnEastAfrica:visited {
+    background-color: rgb(170, 110, 50);
+    color: black;
+  }
+  
+  .container .btnEastAfrica:focus {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnEastAfrica:active {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnEastAfrica:hover {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnCongo {
+    position: absolute;
+    top: 72%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(170, 110, 50);
+    color: black;
+    font-size: 14px;
+    padding: 5px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnCongo:visited {
+    background-color: rgb(170, 110, 50);
+    color: black;
+  }
+  
+  .container .btnCongo:focus {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnCongo:active {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnCongo:hover {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnSouthAfrica {
+    position: absolute;
+    top: 83%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(170, 110, 50);
+    color: black;
+    font-size: 14px;
+    padding: 5px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnSouthAfrica:visited {
+    background-color: rgb(170, 110, 50);
+    color: black;
+  }
+  
+  .container .btnSouthAfrica:focus {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnSouthAfrica:active {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnSouthAfrica:hover {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnMadagascar {
+    position: absolute;
+    top: 84%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(170, 110, 50);
+    color: black;
+    font-size: 14px;
+    padding: 3px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnMadagascar:visited {
+    background-color: rgb(170, 110, 50);
+    color: black;
+  }
+  
+  .container .btnMadagascar:focus {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnMadagascar:active {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnMadagascar:hover {
+    background-color: rgb(170, 110, 50);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+
+
+
+  .container .btnIceland {
+    position: absolute;
+    top: 19.5%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(92, 192, 236);
+    color: black;
+    font-size: 14px;
+    padding: 4px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnIceland:visited {
+    background-color: rgb(92, 192, 236);
+    color: black;
+  }
+  
+  .container .btnIceland:focus {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnIceland:active {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnIceland:hover {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnGreatBritain {
+    position: absolute;
+    top: 30%;
+    left: 41%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(92, 192, 236);
+    color: black;
+    font-size: 14px;
+    padding: 4px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnGreatBritain:visited {
+    background-color: rgb(92, 192, 236);
+    color: black;
+  }
+  
+  .container .btnGreatBritain:focus {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnGreatBritain:active {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnGreatBritain:hover {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnScandinavia {
+    position: absolute;
+    top: 19.5%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(92, 192, 236);
+    color: black;
+    font-size: 14px;
+    padding: 4px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnScandinavia:visited {
+    background-color: rgb(92, 192, 236);
+    color: black;
+  }
+  
+  .container .btnScandinavia:focus {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnScandinavia:active {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnScandinavia:hover {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnNorthernEurope {
+    position: absolute;
+    top: 32%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(92, 192, 236);
+    color: black;
+    font-size: 14px;
+    padding: 4px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnNorthernEurope:visited {
+    background-color: rgb(92, 192, 236);
+    color: black;
+  }
+  
+  .container .btnNorthernEurope:focus {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnNorthernEurope:active {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnNorthernEurope:hover {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnUkraine {
+    position: absolute;
+    top: 25%;
+    left: 59%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(92, 192, 236);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnUkraine:visited {
+    background-color: rgb(92, 192, 236);
+    color: black;
+  }
+  
+  .container .btnUkraine:focus {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnUkraine:active {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnUkraine:hover {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnSouthernEurope {
+    position: absolute;
+    top: 40%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(92, 192, 236);
+    color: black;
+    font-size: 14px;
+    padding: 4px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnSouthernEurope:visited {
+    background-color: rgb(92, 192, 236);
+    color: black;
+  }
+  
+  .container .btnSouthernEurope:focus {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnSouthernEurope:active {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnSouthernEurope:hover {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnWesternEurope {
+    position: absolute;
+    top: 45%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(92, 192, 236);
+    color: black;
+    font-size: 14px;
+    padding: 4px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnWesternEurope:visited {
+    background-color: rgb(92, 192, 236);
+    color: black;
+  }
+  
+  .container .btnWesternEurope:focus {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnWesternEurope:active {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnWesternEurope:hover {
+    background-color: rgb(92, 192, 236);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+
+
+
+  .container .btnUral {
+    position: absolute;
+    top: 23%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnUral:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnUral:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnUral:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnUral:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnSiberia {
+    position: absolute;
+    top: 17%;
+    left: 74%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnSiberia:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnSiberia:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnSiberia:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnSiberia:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnAfghanistan {
+    position: absolute;
+    top: 36%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnAfghanistan:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnAfghanistan:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnAfghanistan:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnAfghanistan:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnMiddleEast {
+    position: absolute;
+    top: 47%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnMiddleEast:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnMiddleEast:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnMiddleEast:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnMiddleEast:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnIndia {
+    position: absolute;
+    top: 50%;
+    left: 73%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnIndia:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnIndia:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnIndia:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnIndia:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnYakutsk {
+    position: absolute;
+    top: 13%;
+    left: 81.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnYakutsk:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnYakutsk:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnYakutsk:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnYakutsk:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnKamchatka {
+    position: absolute;
+    top: 14%;
+    left: 89%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnKamchatka:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnKamchatka:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnKamchatka:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnKamchatka:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnChina {
+    position: absolute;
+    top: 44%;
+    left: 79%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 6px 6px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnChina:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnChina:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnChina:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnChina:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnSiam {
+    position: absolute;
+    top: 54%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnSiam:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnSiam:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnSiam:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnSiam:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnIrkutsk {
+    position: absolute;
+    top: 25%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnIrkutsk:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnIrkutsk:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnIrkutsk:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnIrkutsk:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnMongolia {
+    position: absolute;
+    top: 33.5%;
+    left: 81%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnMongolia:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnMongolia:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnMongolia:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnMongolia:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnJapan {
+    position: absolute;
+    top: 34.5%;
+    left: 91.5%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(81, 224, 158);
+    color: black;
+    font-size: 14px;
+    padding: 2px 1px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnJapan:visited {
+    background-color: rgb(81, 224, 158);
+    color: black;
+  }
+  
+  .container .btnJapan:focus {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnJapan:active {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnJapan:hover {
+    background-color: rgb(81, 224, 158);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+
+
+
+  .container .btnIndonesia {
+    position: absolute;
+    top: 69.5%;
+    left: 82%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(160, 46, 197);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnIndonesia:visited {
+    background-color: rgb(160, 46, 197);
+    color: black;
+  }
+  
+  .container .btnIndonesia:focus {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnIndonesia:active {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnIndonesia:hover {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnNewGuinea {
+    position: absolute;
+    top: 66%;
+    left: 91%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(160, 46, 197);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnNewGuinea:visited {
+    background-color: rgb(160, 46, 197);
+    color: black;
+  }
+  
+  .container .btnNewGuinea:focus {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnNewGuinea:active {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnNewGuinea:hover {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnWesternAustralia {
+    position: absolute;
+    top: 84%;
+    left: 83%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(160, 46, 197);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnWesternAustralia:visited {
+    background-color: rgb(160, 46, 197);
+    color: black;
+  }
+  
+  .container .btnWesternAustralia:focus {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnWesternAustralia:active {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnWesternAustralia:hover {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+
+  .container .btnEasternAustralia {
+    position: absolute;
+    top: 79%;
+    left: 94%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(160, 46, 197);
+    color: black;
+    font-size: 14px;
+    padding: 4px 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+  }
+
+  .container .btnEasternAustralia:visited {
+    background-color: rgb(160, 46, 197);
+    color: black;
+  }
+  
+  .container .btnEasternAustralia:focus {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 1;
+  }
+
+  .container .btnEasternAustralia:active {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+    opacity: 0.6;
+  }
+
+  .container .btnEasternAustralia:hover {
+    background-color: rgb(160, 46, 197);
+    color: black;
+    border: 2px solid white;
+  }
+
+
+.container2 {
+    position: absolute;
+    top: 15%;
+    left: 83%;
+    width: 100%;
+    max-width: 300px;
+    height: 800px;
+}
+
+
+
+.container2 .btnCashInStars {
+  position: absolute;
+  top: 100px;
+  left: 75px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(226, 144, 21);
+  color: black;
+  font-size: 22px;
+  padding: 10px 8px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container2 .btnCashInStars:visited {
+  background-color: rgb(226, 144, 21);
+  color: black;
+}
+
+.container2 .btnCashInStars:focus {
+  background-color: rgb(226, 144, 21);
+  color: black;
+  border: 2px solid black;
+  opacity: 1;
+}
+
+.container2 .btnCashInStars:active {
+  background-color: rgb(226, 144, 21);
+  color: black;
+  border: 2px solid black;
+  opacity: 0.6;
+}
+
+.container2 .btnCashInStars:hover {
+  background-color: rgb(226, 144, 21);
+  color: black;
+  border: 2px solid black;
+}
+
+
+
+  .container2 .btnAttack {
+    position: absolute;
+    top: 200px;
+    left: 75px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 22px;
+    padding: 10px 43px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .container2 .btnAttack:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnAttack:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+
+  .container2 .btnAttack:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+
+  .container2 .btnAttack:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+  
+
+
+
+  .container2 .btnMoveTroops {
+    position: absolute;
+    top: 300px;
+    left: 75px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 22px;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnMoveTroops:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnMoveTroops:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnMoveTroops:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnMoveTroops:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+
+
+
+  .container2 .btnEndTurn {
+    position: absolute;
+    top: 400px;
+    left: 75px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 22px;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnEndTurn:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnEndTurn:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnEndTurn:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnEndTurn:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+
+  .container2 .textPrompt {
+    position: absolute;
+    top: 500px;
+    left: 75px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    padding: 10px 30px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .container2 .btnStars2 {
+    position: absolute;
+    top: 13px;
+    left: 10px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars2:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars2:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars2:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars2:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+  
+
+
+  .container2 .btnStars3 {
+    position: absolute;
+    top: 13px;
+    left: 37px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars3:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars3:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars3:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars3:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+  
+
+
+  .container2 .btnStars4 {
+    position: absolute;
+    top: 13px;
+    left: 64px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars4:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars4:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars4:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars4:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+  
+
+
+  .container2 .btnStars5 {
+    position: absolute;
+    top: 13px;
+    left: 91px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars5:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars5:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars5:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars5:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+  
+
+
+  .container2 .btnStars6 {
+    position: absolute;
+    top: 13px;
+    left: 118px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars6:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars6:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars6:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars6:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+
+
+
+  .container2 .btnStars7 {
+    position: absolute;
+    top: 43px;
+    left: 10px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars7:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars7:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars7:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars7:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+
+
+
+  .container2 .btnStars8 {
+    position: absolute;
+    top: 43px;
+    left: 37px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars8:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars8:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars8:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars8:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+
+
+
+
+  .container2 .btnStars9 {
+    position: absolute;
+    top: 43px;
+    left: 64px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars9:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars9:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars9:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars9:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+
+
+
+  .container2 .btnStars10 {
+    position: absolute;
+    top: 43px;
+    left: 91px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 15px;
+    padding: 6px 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnStars10:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnStars10:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnStars10:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnStars10:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }
+
+
+
+  .container2 .textPrompt2 {
+    position: absolute;
+    top: 600px;
+    left: 75px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    padding: 10px 30px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+
+
+
+  .input-label {
+    position:absolute;
+    top: 160px;
+    left: 150px;
+
+  }
+  
+
+  .numTroops {
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    width: 50px;
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+
+
+
+  
+  .container2 .btnSubmitNumTroops {
+    position: absolute;
+    top: 230px;
+    left: 185px;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(226, 144, 21);
+    color: black;
+    font-size: 12px;
+    padding: 5px 7px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .container2 .btnSubmitNumTroops:visited {
+    background-color: rgb(226, 144, 21);
+    color: black;
+  }
+  
+  .container2 .btnSubmitNumTroops:focus {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 1;
+  }
+  
+  .container2 .btnSubmitNumTroops:active {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+    opacity: 0.6;
+  }
+  
+  .container2 .btnSubmitNumTroops:hover {
+    background-color: rgb(226, 144, 21);
+    color: black;
+    border: 2px solid black;
+  }

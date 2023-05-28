@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Risk</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.2/socket.io.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="/static/board.css">
+    <script src="/static/main.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <img src="/static/Risk_board.png" alt="Risk Board" style="width:100%">
+  <button class="btnAlaska" name="Alaska" id="Alaska">Alaska</button>
+  <button class="btnNorthwestTerritory" name="Northwest Territory" id="NorthwestTerritory">Northwest Territory</button>
+  <button class="btnAlberta" name= "Alberta" id="Alberta">Alberta</button>
+  <button class="btnWesternUS" name="Western U.S." id="WesternUS">Western U.S.</button>
+  <button class="btnOntario" name="Ontario" id="Ontario">Ontario</button>
+  <button class="btnQuebec" name="Quebec" id="Quebec">Quebec</button>
+  <button class="btnGreenland" name="Greenland" id="Greenland">Greenland</button>
+  <button class="btnEasternUS" name="Eastern U.S." id="EasternUS">Eastern U.S.</button>
+  <button class="btnCentralAmerica" name="Central America" id="CentralAmerica">Central America</button>
+  <button class="btnVenezuela" name="Venezuela" id="Venezuela">Venezuela</button>
+  <button class="btnBrazil" name="Brazil" id="Brazil">Brazil</button>
+  <button class="btnPeru" name="Peru" id="Peru">Peru</button>
+  <button class="btnArgentina" name="Argentina" id="Argentina">Argentina</button>
+  <button class="btnNorthAfrica" name="North Africa" id="NorthAfrica">North Africa</button>
+  <button class="btnEgypt" name="Egypt" id="Egypt">Egypt</button>
+  <button class="btnEastAfrica" name="East Africa" id="EastAfrica">East Africa</button>
+  <button class="btnCongo" name="Congo" id="Congo">Congo</button>
+  <button class="btnSouthAfrica" name="South Africa" id="SouthAfrica">South Africa</button>
+  <button class="btnMadagascar" name="Madagascar" id="Madagascar">Madagascar</button>
+  <button class="btnIceland" name="Iceland" id="Iceland">Iceland</button>
+  <button class="btnGreatBritain" name="Great Britain" id="GreatBritain">Great Britain</button>
+  <button class="btnScandinavia" name="Scandinavia" id="Scandinavia">Scandinavia</button>
+  <button class="btnNorthernEurope" name="Northern Europe" id="NorthernEurope">Northern Europe</button>
+  <button class="btnUkraine" name="Ukraine" id="Ukraine">Ukraine</button>
+  <button class="btnSouthernEurope" name="Southern Europe" id="SouthernEurope">Southern Europe</button>
+  <button class="btnWesternEurope" name="Western Europe" id="WesternEurope">Western Europe</button>
+  <button class="btnUral" name="Ural" id="Ural">Ural</button>
+  <button class="btnSiberia" name="Siberia" id="Siberia">Siberia</button>
+  <button class="btnAfghanistan" name="Afghanistan" id="Afghanistan">Afghanistan</button>
+  <button class="btnMiddleEast" name="Middle East" id="MiddleEast">Middle East</button>
+  <button class="btnIndia" name="India" id="India">India</button>
+  <button class="btnYakutsk" name="Yakutsk" id="Yakutsk">Yakutsk</button>
+  <button class="btnKamchatka" name="Kamchatka" id="Kamchatka">Kamchatka</button>
+  <button class="btnChina" name="China" id="China">China</button>
+  <button class="btnSiam" name="Siam" id="Siam">Siam</button>
+  <button class="btnIrkutsk" name="Irkutsk" id="Irkutsk">Irkutsk</button>
+  <button class="btnMongolia" name="Mongolia" id="Mongolia">Mongolia</button>
+  <button class="btnJapan" name="Japan" id="Japan">Japan</button>
+  <button class="btnIndonesia" name="Indonesia" id="Indonesia">Indonesia</button>
+  <button class="btnNewGuinea" name="New Guinea" id="NewGuinea">New Guinea</button>
+  <button class="btnWesternAustralia" name="Western Australia" id="WesternAustralia">Western Australia</button>
+  <button class="btnEasternAustralia" name="Eastern Australia" id="EasternAustralia">Eastern Australia</button>
+</div>
+<div class="container2">
+    <button class="btnAttack" name="Attack" id="Attack">Attack</button>
+    <button class="btnCashInStars" name="Cash In Stars" id="CashInStars">Cash In Stars</button>
+    <button class="btnMoveTroops" name="Move Troops" id="MoveTroops">Move Troops</button>
+    <button class="btnEndTurn" name="End Turn" id="EndTurn">End Turn</button>
+    <p class="textPrompt" name="text Prompt" id="textPrompt">Test</p>
+    <button class="btnStars2" name="Stars 2" id="2">2</button>
+    <button class="btnStars3" name="Stars 3" id="3">3</button>
+    <button class="btnStars4" name="Stars 4" id="4">4</button>
+    <button class="btnStars5" name="Stars 5" id="5">5</button>
+    <button class="btnStars6" name="Stars 6" id="6">6</button>
+    <button class="btnStars7" name="Stars 7" id="7">7</button>
+    <button class="btnStars8" name="Stars 8" id="8">8</button>
+    <button class="btnStars9" name="Stars 9" id="9">9</button>
+    <button class="btnStars10" name="Stars 10" id="10">10</button>
+    <p class="textPrompt2" name="text Prompt 2" id="textPrompt2">Test</p>
+    <label class="input-label" for="numTroops">Troops:</label>
+    <input type="number" class="numTroops" name="numTroops" min="1" max="10000">
+    <button class="btnSubmitNumTroops" name="Submit numTroops" id="SubmitNumTroops">Submit</button>
+    
+</div>
+</body>
+</html>
+
+
+
